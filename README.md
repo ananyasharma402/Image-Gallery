@@ -29,6 +29,7 @@ This project displays multiple images in a responsive grid layout. Users can hov
 
 Access through link:
 https://image-gallery-aqwz2pib5-taskmanager233.vercel.app/
+https://image-gallery-git-main-taskmanager233.vercel.app/
 
 ## 📂 Project Structure
 
